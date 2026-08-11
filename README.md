@@ -65,7 +65,7 @@ Unauthorized origins receive no `Access-Control-Allow-Origin` header, causing th
 ## Lab Structure
 
 ```text
-CS_LAB_2/
+assignment-2-group-3/
 ├── victim-app/       # BankDash application and API
 ├── attacker-site/    # Simulated malicious website
 └── README.md
