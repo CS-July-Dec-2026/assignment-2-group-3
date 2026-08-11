@@ -1,0 +1,14 @@
+{
+  "name": "victim-bankdash",
+  "version": "1.0.0",
+  "description": "Deliberately vulnerable demo app for a CORS misconfiguration assignment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "cookie-parser": "^1.4.6"
+  }
+}
